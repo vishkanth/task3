@@ -1,0 +1,12 @@
+Here the task is:
+      Objective: Implement and understand simple & multiple linear regression
+      Tools: Scikit-learn, Pandas, Matplotlib
+i have used :
+      Simple Linear Regression – Predict Fare based on Age
+      Multiple Linear Regression – Predict Fare using multiple features
+
+Simple Linear Regression:
+       Predicts using 1 independent variable
+      
+Multiple Linear Regression:
+      Predicts using 2 or more independent variables
